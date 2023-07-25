@@ -12,6 +12,7 @@ Each Shiny app has two parts:
 # First, import from the Python Standard Library (no installation required).
 import asyncio
 
+
 # Then, outside imports (these must be installed into your active Python environment).
 from shiny import App, ui   # pip install shiny
 import shinyswatch          # pip install shinyswatch
