@@ -1,8 +1,12 @@
 # Continuous Intelligence App
 
-- Repository: [cintel-05-live-updates](https://github.com/denisecase/cintel-05-live-updates)
-- Website: [cintel-05-live-updates](https://denisecase.github.io/cintel-05-live-updates/)
-- Author: [Denise Case](https://github.com/denisecase)
+#### Bill Ault
+#### 44-630
+#### Summer-2/2023
+
+- Repository: [cintel-05-live-updates](https://github.com/wfaultms/cintel-05-live-updates)
+- Website: [cintel-05-live-updates](https://wfaultms.github.io/cintel-05-live-updates/)
+- Author: [Bill Ault](https://github.com/wfaultms)
 
 -----
 
@@ -18,7 +22,7 @@ Copy this starter repository into your own GitHub account by clicking the 'Fork'
     
 1. Open VS Code and from the menu, select **View** / **Command Palette**.
 1. Type "Git: Clone" in the command palette and select it.
-1. Enter the URL (web address) of your forked GitHub repository (make sure it contains your GitHub username - not denisecase).
+1. Enter the URL (web address) of your forked GitHub repository (make sure it contains your GitHub username - not wfaultms).
 1. Choose a directory on your local machine (e.g., Documents folder) to store the project. 
 1. Avoid spaces in your directory and file names. If you have spaces, you'll need to use double quotes to keep the entire path recognized as a single string.
 1. If prompted, sign in to GitHub from VS Code.
@@ -29,7 +33,7 @@ With your respository folder open in VS Code:
 
 1. Click on this README.md file for editing.
 1. Update the README.md file by changing your name in the author link above.
-1. Update the links in the README.md file to your username instead of denisecase.
+1. Update the links in the README.md file to your username instead of wfaultms.
 
 ### Save Your Changes
 
@@ -74,7 +78,7 @@ python -m pip install --upgrade -r requirements.txt
 Read the requirements.txt file to see the packages we are installing.
 
 Additional information can be found in our first Shiny repo: 
-[cintel-02-app/SHINY.md](https://github.com/denisecase/cintel-02-app/blob/main/SHINY.md#step-2-prepare-virtual-environment)
+[cintel-02-app/SHINY.md](https://github.com/wfaultms/cintel-02-app/blob/main/SHINY.md#step-2-prepare-virtual-environment)
 
 -----
 
@@ -100,7 +104,7 @@ before running the app again.
 
 Add and customize .github/workflows/deploy.yml.
 Login to [shinyapps.io](https://www.shinyapps.io/) then Account / Tokens and add 3 repo secrets.
-See the earlier [SHINYAPPS.md](https://github.com/denisecase/cintel-02-app/blob/main/SHINYAPPS.md) for details.
+See the earlier [SHINYAPPS.md](https://github.com/wfaultms/cintel-02-app/blob/main/SHINYAPPS.md) for details.
 
 - Name: SHINYAPPS_ACCOUNT, Secret: Paste shinyapps.io account name
 - Name: SHINYAPPS_TOKEN, Secret: (paste token )

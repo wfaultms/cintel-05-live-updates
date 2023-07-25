@@ -4,8 +4,11 @@
 .env
 
 # Virtual environment directories
-.venv/
+.venv_*/
 venv/
+
+# Notes
+NOTES-URL.txt
 
 # VS Code
 .vscode/
